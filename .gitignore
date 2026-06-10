@@ -1,0 +1,9 @@
+#ssh keys
+
+*.pem
+*.key
+id_*
+.ssh/
+*_ssh_key
+*_ssh_key.pub
+
